@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Thomas/CLionProjects/Renderer2/main.cpp
+iostream
+-
+Windows.h
+-
+src/window/Window.h
+C:/Users/Thomas/CLionProjects/Renderer2/src/window/Window.h
+
+C:/Users/Thomas/CLionProjects/Renderer2/src/entity/Entity.h
+../entity/Entity.h
+C:/Users/Thomas/CLionProjects/Renderer2/src/entity/Entity.h
+../sprite/Sprite.h
+C:/Users/Thomas/CLionProjects/Renderer2/src/sprite/Sprite.h
+
+C:/Users/Thomas/CLionProjects/Renderer2/src/sprite/Sprite.h
+string
+-
+vector
+-
+list
+-
+
+C:/Users/Thomas/CLionProjects/Renderer2/src/window/Window.h
+vector
+-
+../entity/Entity.h
+C:/Users/Thomas/CLionProjects/Renderer2/src/entity/Entity.h
+

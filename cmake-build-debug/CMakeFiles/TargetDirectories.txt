@@ -1,0 +1,3 @@
+C:/Users/Thomas/CLionProjects/Renderer2/cmake-build-debug/CMakeFiles/Renderer2.dir
+C:/Users/Thomas/CLionProjects/Renderer2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thomas/CLionProjects/Renderer2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
