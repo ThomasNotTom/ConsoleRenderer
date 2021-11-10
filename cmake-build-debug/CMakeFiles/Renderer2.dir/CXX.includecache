@@ -14,10 +14,20 @@ Windows.h
 src/window/Window.h
 C:/Users/Thomas/CLionProjects/Renderer2/src/window/Window.h
 
+C:/Users/Thomas/CLionProjects/Renderer2/src/entity/Entity.cpp
+Entity.h
+C:/Users/Thomas/CLionProjects/Renderer2/src/entity/Entity.h
+
 C:/Users/Thomas/CLionProjects/Renderer2/src/entity/Entity.h
 ../entity/Entity.h
 C:/Users/Thomas/CLionProjects/Renderer2/src/entity/Entity.h
 ../sprite/Sprite.h
+C:/Users/Thomas/CLionProjects/Renderer2/src/sprite/Sprite.h
+
+C:/Users/Thomas/CLionProjects/Renderer2/src/sprite/Sprite.cpp
+iostream
+-
+Sprite.h
 C:/Users/Thomas/CLionProjects/Renderer2/src/sprite/Sprite.h
 
 C:/Users/Thomas/CLionProjects/Renderer2/src/sprite/Sprite.h
@@ -27,6 +37,12 @@ vector
 -
 list
 -
+
+C:/Users/Thomas/CLionProjects/Renderer2/src/window/Window.cpp
+iostream
+-
+Window.h
+C:/Users/Thomas/CLionProjects/Renderer2/src/window/Window.h
 
 C:/Users/Thomas/CLionProjects/Renderer2/src/window/Window.h
 vector
